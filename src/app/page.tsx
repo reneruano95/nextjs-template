@@ -7,6 +7,8 @@ export default function Home() {
     <Container>
       <Jumbotron />
       <Link href="/about">About</Link>
+      <br />
+      <Link href="/profiles">Profiles</Link>
     </Container>
   );
 }
